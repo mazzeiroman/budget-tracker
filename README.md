@@ -17,12 +17,12 @@
 https://github.com/mazzeiroman/budget-tracker
 
 ## Link to the Deployed Application
-xxxxxxx
+https://budgetbyte.herokuapp.com/
 
  ![](public/images/budgetapp.jpeg)
 
 ## Description
- A full-stack application. An Album collection developed using MongoDB, Node, Express. Using Node to query and route data in the app, javaScript and HTML.
+ A full-stack application that works offline, developed using, Node, Express. Using Node to query and route data in the app, javaScript and HTML.
  
 ## Installation 
  This aplication is deployed to heroku so no installation is needed unless to be modified. You must install node.JS, and the JSON Package and also install MySQL and MySQL Workbench.

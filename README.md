@@ -17,7 +17,7 @@
 https://github.com/mazzeiroman/budget-tracker
 
 ## Link to the Deployed Application
-https://budgetbyte.herokuapp.com/
+https://agile-dawn-31760.herokuapp.com/
 
  ![](public/images/budgetapp.jpeg)
 

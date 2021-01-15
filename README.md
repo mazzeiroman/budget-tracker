@@ -22,7 +22,7 @@ xxxxxxx
  ![](public/images/budgetapp.jpeg)
 
 ## Description
- A full-stack application. An Album collection developed using MySQL, Node, Express, Handlebars, sequelize and Passport (Pull out all the stops!). Following the MVC design pattern; using Node and Sequelize to query and route data in the app, javaScript and Handlebars to generate HTML and Passport to authenticate users loging in.
+ A full-stack application. An Album collection developed using MongoDB, Node, Express. Using Node to query and route data in the app, javaScript and HTML.
  
 ## Installation 
  This aplication is deployed to heroku so no installation is needed unless to be modified. You must install node.JS, and the JSON Package and also install MySQL and MySQL Workbench.
